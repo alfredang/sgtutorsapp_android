@@ -3,6 +3,15 @@
 All notable changes to the Tertiary SGTutors Android app are documented here.
 Format: [Keep a Changelog](https://keepachangelog.com).
 
+## [1.0.1] — 2026-09-09 · versionCode 2
+
+### Changed
+- Prepared the app for release from the Tertiary Infotech Academy organization account.
+- Updated the Android application identifier for the organization Play listing.
+
+### Play submission
+- Production track, Singapore. Prepared for submission on 2026-09-09.
+
 ## [1.0] — 2026-07-06 · versionCode 1
 
 ### Added
