@@ -10,7 +10,7 @@ Format: [Keep a Changelog](https://keepachangelog.com).
 - Updated the Android application identifier for the organization Play listing.
 
 ### Play submission
-- Production track, Singapore. Prepared for submission on 2026-09-09.
+- Production track targeting Singapore. Sent to Google for review on 2026-09-12.
 
 ## [1.0] — 2026-07-06 · versionCode 1
 
