@@ -4,6 +4,9 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.1-7F52FF?logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white)
 ![License](https://img.shields.io/badge/License-Proprietary-lightgrey)
+[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=sg.com.tertiarycourses.sgtutors)
+
+**[Get it on Google Play →](https://play.google.com/store/apps/details?id=sg.com.tertiarycourses.sgtutors)**
 
 Native Android app for **[SG Tutors](https://sgtutors.tertiaryinfotech.com)** — find home tutors in Singapore. Search tutors by subject, level, region and gender, view verified profiles and reviews, and send an enquiry directly to a tutor — no account needed.
 
